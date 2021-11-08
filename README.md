@@ -1,5 +1,7 @@
-# Youtube_RSS_generator
+# RSS_URL_Generator
 
-* As of now can only be used for Youtube Channel URL.
+* Generate RSS URL for Youtube Channel, Playlist, Twitter.
 
 * *compile using c/c++ compiler in order to use.*
+
+--first project made in c++--
